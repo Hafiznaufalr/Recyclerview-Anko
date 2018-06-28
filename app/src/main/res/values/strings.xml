@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Football Club </string>
+    <string name="barca_detail">Futbol Club Barcelona (Catalan pronunciation: [fubˈbɔɫ ˈkɫub bərsəˈɫonə] (About this sound listen)), commonly known as Barcelona and familiarly as Barça,[note 1] is a professional football club based in Barcelona, Catalonia, Spain.
+
+Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a club"). Unlike many other football clubs, the supporters own and operate Barcelona. It is the third most valuable sports team in the world, worth $4.07 billion, and the world's third richest football club in terms of revenue, with an annual turnover of €648.3 million.[2][3] The official Barcelona anthem is the "Cant del Barça", written by Jaume Picas and Josep Maria Espinàs</string>
+    <string name="madrid_detail">Real Madrid Club de Fútbol (Spanish pronunciation: [reˈal maˈðɾið ˈkluβ ðe ˈfuðβol]; "Royal Madrid Football Club"), commonly known as Real Madrid, or simply as Real, is a professional football club based in Madrid, Spain.
+
+Founded on 6 March 1902 as the Madrid Football Club, the club has traditionally worn a white home kit since inception. The word real is Spanish for "royal" and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem. The team has played its home matches in the 81,044-capacity Santiago Bernabéu Stadium in downtown Madrid since 1947. Unlike most European sporting entities, Real Madrid's members (socios) have owned and operated the club throughout its history.</string>
+    <string name="bayern_detail">Fußball-Club Bayern München e.V., commonly known as FC Bayern München (German pronunciation: [ʔɛf tseː ˈbaɪɐn ˈmʏnçn̩]), FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria (Bayern). It is best known for its professional football team, which plays in the Bundesliga, the top tier of the German football league system, and is the most successful club in German football history, having won a record 28 national titles and 18 national cups.[4]
+
+FC Bayern was founded in 1900 by 11 football players, led by Franz John.[5] Although Bayern won its first national championship in 1932,[6] the club was not selected for the Bundesliga at its inception in 1963.</string>
+    <string name="city_detail" tools:ignore="StringEscaping">Manchester City Football Club is a football club in Manchester, England. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. The club's home ground is the City of Manchester Stadium in east Manchester, to which it moved in 2003, having played at Maine Road since 1923.
+
+Manchester City first played in the top-tier of the Football League in 1899 and won their first major honour with the FA Cup in 1904. The club's most successful period was from 1968 to 1970.</string>
+    <string name="mu_detail">
+Manchester United
+The words "Manchester" and "United" surround a pennant featuring a ship in full sail and a devil holding a trident.
+Full name	Manchester United Football Club
+Nickname(s)	The Red Devils[1]
+Short name	MUFC
+Founded	1878; 140 years ago, as Newton Heath LYR F.C.
+1902; 116 years ago, as Manchester United F.C.
+Ground	Old Trafford
+Capacity	74,994[2]
+Owner	Manchester United plc (NYSE: MANU)
+Co-chairmen	Joel and Avram Glazer
+Manager	José Mourinho
+League	Premier League
+2017–18	Premier League, 2nd of 20
+Website	Club website
+A red shirt with white stripes going along the shoulders. White shorts with black stripes down the sides. Black socks with a white and red band going around the middle, and white stripes along the side of the tops.
+Home colours
+A black shirt with a continuous white M-shaped gradient pattern, white stripes going down each side of the torso. Black shorts with white stripes down the sides. Black socks with a with white stripes along the side of the tops.
+Away colours
+
+Third colours
+ Current season
+Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed "the Red Devils", the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910.
+
+Manchester United have won more trophies than any other club in English football</string>
+    <string name="chelsea_detail">Chelsea Football Club is a professional football club in London, England, that competes in the Premier League. Founded in 1905, the clubs home ground since then has been Stamford Bridge.[4]
+
+Chelsea won the First Division title in 1955, followed by various cup competitions between 1965 and 1971. The past two decades have seen sustained success, with the club winning 23 trophies since 1997.</string>
+    <string name="acm_detail">Associazione Calcio Milan (Italian pronunciation: [assotʃatˈtsjoːne ˈkaltʃo ˈmiːlan]), commonly referred to as A.C. Milan or simply Milan, is a professional football club in Milan, Italy, founded in 1899.[3][4] The club has spent its entire history, with the exception of the 1980–81 and 1982–83 seasons, in the top flight of Italian football, known as Serie A since 1929–30.[3]
+
+AC Milan's 18 FIFA and UEFA trophies is the fourth highest out of any club (joint with Boca Juniors), and the most out of any Italian club.</string>
+    <string name="arsenal_detail">Arsenal Football Club is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football. The club has won 13 League titles, a record 13 FA Cups, two League Cups, the League Centenary Trophy, 15 FA Community Shields, one UEFA Cup Winners Cup and one Inter-Cities Fairs Cup.
+
+Arsenal was the first club from the South of England to join The Football League, in 1893, and they reached the First Division in 1904. Relegated only once, in 1913, they continue the longest streak in the top division,[3] and have won the second-most top-flight matches in English football history.</string>
+</resources>
